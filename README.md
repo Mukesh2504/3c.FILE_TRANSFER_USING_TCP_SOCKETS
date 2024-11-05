@@ -63,10 +63,3 @@ while True:
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
-
-
-## SERVER: 
-
-## RESULT
-Thus, the python program for creating File Transfer using TCP Sockets Links was 
-successfully created and executed.
